@@ -1,0 +1,3 @@
+variable_name, value
+directory_path,C:/DAN/t_systems/topic_model_lda_hyper_params_opt
+random_seed,420

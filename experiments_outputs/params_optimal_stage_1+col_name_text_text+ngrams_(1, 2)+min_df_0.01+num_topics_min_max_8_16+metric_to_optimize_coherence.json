@@ -1,0 +1,1 @@
+{"alpha": 0.005, "decay": 0.9, "offset": 16, "eta": "auto", "gamma_threshold": 0.001, "minimum_probability": 0.1, "num_topics": 7.0}

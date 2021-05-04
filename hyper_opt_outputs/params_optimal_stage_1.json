@@ -1,0 +1,1 @@
+{"alpha": 0.0001, "decay": 0.6, "offset": 64, "eta": null, "gamma_threshold": 0.0008, "minimum_probability": 0.05}
