@@ -1,6 +1,7 @@
 # LDA topic model hyper params optimization
 
 Summary
+
 Two implementations of LDA model:
 - Gensim LDA model
 - Guided LDA
